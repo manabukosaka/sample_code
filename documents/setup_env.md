@@ -8,11 +8,14 @@
 - Python  
 これ使って"python.pythonPath"に任意のパスを通す  
 - [Shell launcher](https://stackoverflow.com/questions/43427631/how-to-add-multiple-terminal-in-vs-code)  
+## git 
+- [git for windows](https://gitforwindows.org/)
+- [github](https://yoshiyoshifujii.hatenablog.com/entry/2014/08/12/230144)
 
-## Anaconda  
-
-## git for windows
-
-## CUDA
+## DNN
+- [CUDA, cuDNN](https://www.kunihikokaneko.com/dblab/toolchain/cudnn7.html)  
+- cupy  
+- pytorch  
 
 ## google colab
+- gitと連携
