@@ -23,8 +23,8 @@
 
 ## カンファレンス・コンソーシアムなど
 - [Developers Summit](https://event.shoeisha.jp/devsumi)
-- [AWS Summit Tokyo 2019](https://aws.amazon.com/jp/summits/tokyo-2019/)
-- [Google Cloud Next '19 in Tokyo](https://developers-jp.googleblog.com/2019/02/google-cloud-next-19-in-tokyo.html)
+- [AWS Summit in Tokyo](https://aws.amazon.com/jp/summits/)
+- [Google Cloud Next in Tokyo](https://cloud.withgoogle.com/next/tokyo)
 
 ## その他
 - [経産省HP](http://www.meti.go.jp/)
