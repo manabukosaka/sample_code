@@ -6,6 +6,9 @@
 - [R-fcn](https://papers.nips.cc/paper/6465-r-fcn-object-detection-via-region-based-fully-convolutional-networks.pdf)
 - [Mask R-CNN](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf)
 
+### Arxivs CS
+- [recent](https://arxiv.org/list/cs/recent)
+
 ## 動画
 - [stanford CS231(CV)](https://www.youtube.com/watch?v=vT1JzLTH4G4)
 - [stanford CS224(NLP)](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PLqdrfNEc5QnuV9RwUAhoJcoQvu4Q46Lja)
@@ -25,10 +28,17 @@
 - [Developers Summit](https://event.shoeisha.jp/devsumi)
 - [AWS Summit in Tokyo](https://aws.amazon.com/jp/summits/)
 - [Google Cloud Next in Tokyo](https://cloud.withgoogle.com/next/tokyo)
+- [The Linux Foundation Events](https://events.linuxfoundation.jp/)
+- [PyCon](https://www.pycon.jp/)
+- [Hadoop/Spark Conference Japan 2019](http://hadoop.apache.jp/hadoop-spark-conference-japan-2019-notice/)
+- [GTC japan](https://www.nvidia.com/ja-jp/gtc/)
+- [Web Summit](https://websummit.com/)
 
 ## その他
 - [経産省HP](http://www.meti.go.jp/)
 - [IPA](https://www.ipa.go.jp/index.html)
 - [データサイエンティスト協会](https://www.datascientist.or.jp/)
 - [ディープラーニング協会](https://www.jdla.org/)
+- [PFN](https://www.preferred-networks.jp/ja/)
+- [IBM](https://www.ibm.com/jp-ja/)
 
