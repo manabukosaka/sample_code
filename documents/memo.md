@@ -6,7 +6,7 @@
 - [R-fcn](https://papers.nips.cc/paper/6465-r-fcn-object-detection-via-region-based-fully-convolutional-networks.pdf)
 - [Mask R-CNN](http://openaccess.thecvf.com/content_ICCV_2017/papers/He_Mask_R-CNN_ICCV_2017_paper.pdf)
 
-### Arxivs CS
+### arXiv CS
 - [recent](https://arxiv.org/list/cs/recent)
 
 ## 動画
