@@ -21,8 +21,14 @@
 - [Getting started with reading Deep Learning Research papers: The Why and the How](https://towardsdatascience.com/getting-started-with-reading-deep-learning-research-papers-the-why-and-the-how-dfd1ac15dbc0)
 - [apt-getまとめ](https://qiita.com/white_aspara25/items/723ae4ebf0bfefe2115c)
 - [IT関連産業の給与等に関する実態調査結果](http://www.meti.go.jp/press/2017/08/20170821001/20170821001-1.pdf)
-- [KY@arutema47(DNN)](https://qiita.com/arutema47)
+- [@Phoeboooo](https://qiita.com/Phoeboooo)
+- [@yoyoyo_](https://qiita.com/@yoyoyo_)
+- [KY@arutema47](https://qiita.com/arutema47)
+- [@GushiSnow](https://qiita.com/GushiSnow)
+- [@takanohi](https://qiita.com/takanohi)
 - [デブサミ2019まとめ記事](https://codezine.jp/article/detail/11383)
+- [[翻訳]あなたがプログラミングに向いていない10のサイン](https://qiita.com/hareku/items/4bfc48e23e83e0d300f3)
+- [プロジェクトの残業を50%削減したタスク管理手法を惜しみなく公開する](https://qiita.com/0w0/items/0b287be30af6539ac5e9)
 
 ## カンファレンス・コンソーシアムなど
 - [Developers Summit](https://event.shoeisha.jp/devsumi)
